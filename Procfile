@@ -1,1 +1,1 @@
-web: python week4.py
+web: gunicorn week4:app
